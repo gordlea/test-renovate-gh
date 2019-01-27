@@ -4,6 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "react": "16.6.3"
+    "react": "16.6.3",
+    "@opendns/api-ng": "1.0.0"
   }
 }
