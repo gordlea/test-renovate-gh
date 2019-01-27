@@ -4,6 +4,6 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "@opendns/neutrino-preset-microapp": "3.0.0"
+    "react": "16.6.3"
   }
 }
