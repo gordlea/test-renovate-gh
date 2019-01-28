@@ -4,6 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "@opendns/renovate-test-lib": "1.0.0"
+    "@opendns/renovate-test-lib": "1.0.0",
+    "react": "16.6.3"
   }
 }
